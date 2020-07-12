@@ -1,0 +1,44 @@
+{"name":"Log","hostname":"tylersheaffer","pid":81999,"level":30,"msg":"Creating table: posts","time":"2020-07-12T22:55:05.771Z","v":0}
+{"name":"Log","hostname":"tylersheaffer","pid":81999,"level":30,"msg":"Creating table: posts_meta","time":"2020-07-12T22:55:05.777Z","v":0}
+{"name":"Log","hostname":"tylersheaffer","pid":81999,"level":30,"msg":"Creating table: users","time":"2020-07-12T22:55:05.783Z","v":0}
+{"name":"Log","hostname":"tylersheaffer","pid":81999,"level":30,"msg":"Creating table: posts_authors","time":"2020-07-12T22:55:05.790Z","v":0}
+{"name":"Log","hostname":"tylersheaffer","pid":81999,"level":30,"msg":"Creating table: roles","time":"2020-07-12T22:55:05.793Z","v":0}
+{"name":"Log","hostname":"tylersheaffer","pid":81999,"level":30,"msg":"Creating table: roles_users","time":"2020-07-12T22:55:05.797Z","v":0}
+{"name":"Log","hostname":"tylersheaffer","pid":81999,"level":30,"msg":"Creating table: permissions","time":"2020-07-12T22:55:05.800Z","v":0}
+{"name":"Log","hostname":"tylersheaffer","pid":81999,"level":30,"msg":"Creating table: permissions_users","time":"2020-07-12T22:55:05.807Z","v":0}
+{"name":"Log","hostname":"tylersheaffer","pid":81999,"level":30,"msg":"Creating table: permissions_roles","time":"2020-07-12T22:55:05.810Z","v":0}
+{"name":"Log","hostname":"tylersheaffer","pid":81999,"level":30,"msg":"Creating table: permissions_apps","time":"2020-07-12T22:55:05.812Z","v":0}
+{"name":"Log","hostname":"tylersheaffer","pid":81999,"level":30,"msg":"Creating table: settings","time":"2020-07-12T22:55:05.815Z","v":0}
+{"name":"Log","hostname":"tylersheaffer","pid":81999,"level":30,"msg":"Creating table: tags","time":"2020-07-12T22:55:05.819Z","v":0}
+{"name":"Log","hostname":"tylersheaffer","pid":81999,"level":30,"msg":"Creating table: posts_tags","time":"2020-07-12T22:55:05.825Z","v":0}
+{"name":"Log","hostname":"tylersheaffer","pid":81999,"level":30,"msg":"Creating table: apps","time":"2020-07-12T22:55:05.831Z","v":0}
+{"name":"Log","hostname":"tylersheaffer","pid":81999,"level":30,"msg":"Creating table: app_settings","time":"2020-07-12T22:55:05.838Z","v":0}
+{"name":"Log","hostname":"tylersheaffer","pid":81999,"level":30,"msg":"Creating table: app_fields","time":"2020-07-12T22:55:05.843Z","v":0}
+{"name":"Log","hostname":"tylersheaffer","pid":81999,"level":30,"msg":"Creating table: invites","time":"2020-07-12T22:55:05.845Z","v":0}
+{"name":"Log","hostname":"tylersheaffer","pid":81999,"level":30,"msg":"Creating table: brute","time":"2020-07-12T22:55:05.851Z","v":0}
+{"name":"Log","hostname":"tylersheaffer","pid":81999,"level":30,"msg":"Creating table: webhooks","time":"2020-07-12T22:55:05.854Z","v":0}
+{"name":"Log","hostname":"tylersheaffer","pid":81999,"level":30,"msg":"Creating table: sessions","time":"2020-07-12T22:55:05.856Z","v":0}
+{"name":"Log","hostname":"tylersheaffer","pid":81999,"level":30,"msg":"Creating table: integrations","time":"2020-07-12T22:55:05.860Z","v":0}
+{"name":"Log","hostname":"tylersheaffer","pid":81999,"level":30,"msg":"Creating table: api_keys","time":"2020-07-12T22:55:05.865Z","v":0}
+{"name":"Log","hostname":"tylersheaffer","pid":81999,"level":30,"msg":"Creating table: mobiledoc_revisions","time":"2020-07-12T22:55:05.870Z","v":0}
+{"name":"Log","hostname":"tylersheaffer","pid":81999,"level":30,"msg":"Creating table: members","time":"2020-07-12T22:55:05.874Z","v":0}
+{"name":"Log","hostname":"tylersheaffer","pid":81999,"level":30,"msg":"Creating table: labels","time":"2020-07-12T22:55:05.880Z","v":0}
+{"name":"Log","hostname":"tylersheaffer","pid":81999,"level":30,"msg":"Creating table: members_labels","time":"2020-07-12T22:55:05.886Z","v":0}
+{"name":"Log","hostname":"tylersheaffer","pid":81999,"level":30,"msg":"Creating table: members_stripe_customers","time":"2020-07-12T22:55:05.888Z","v":0}
+{"name":"Log","hostname":"tylersheaffer","pid":81999,"level":30,"msg":"Creating table: members_stripe_customers_subscriptions","time":"2020-07-12T22:55:05.891Z","v":0}
+{"name":"Log","hostname":"tylersheaffer","pid":81999,"level":30,"msg":"Creating table: actions","time":"2020-07-12T22:55:05.894Z","v":0}
+{"name":"Log","hostname":"tylersheaffer","pid":81999,"level":30,"msg":"Creating table: emails","time":"2020-07-12T22:55:05.899Z","v":0}
+{"name":"Log","hostname":"tylersheaffer","pid":81999,"level":30,"msg":"Model: Tag","time":"2020-07-12T22:55:05.909Z","v":0}
+{"name":"Log","hostname":"tylersheaffer","pid":81999,"level":30,"msg":"Model: Role","time":"2020-07-12T22:55:05.924Z","v":0}
+{"name":"Log","hostname":"tylersheaffer","pid":81999,"level":30,"msg":"Model: Permission","time":"2020-07-12T22:55:05.943Z","v":0}
+{"name":"Log","hostname":"tylersheaffer","pid":81999,"level":30,"msg":"Model: User","time":"2020-07-12T22:55:06.108Z","v":0}
+{"name":"Log","hostname":"tylersheaffer","pid":81999,"level":30,"msg":"Model: Post","time":"2020-07-12T22:55:06.440Z","v":0}
+{"name":"Log","hostname":"tylersheaffer","pid":81999,"level":30,"msg":"Model: Integration","time":"2020-07-12T22:55:06.618Z","v":0}
+{"name":"Log","hostname":"tylersheaffer","pid":81999,"level":30,"msg":"Relation: Role to Permission","time":"2020-07-12T22:55:06.644Z","v":0}
+{"name":"Log","hostname":"tylersheaffer","pid":81999,"level":30,"msg":"Relation: Post to Tag","time":"2020-07-12T22:55:06.834Z","v":0}
+{"name":"Log","hostname":"tylersheaffer","pid":81999,"level":30,"msg":"Relation: User to Role","time":"2020-07-12T22:55:06.857Z","v":0}
+{"name":"Log","hostname":"tylersheaffer","pid":81999,"level":30,"msg":"Ghost is running in development...","time":"2020-07-12T22:55:13.218Z","v":0}
+{"name":"Log","hostname":"tylersheaffer","pid":81999,"level":30,"msg":"Listening on: 127.0.0.1:2368","time":"2020-07-12T22:55:13.219Z","v":0}
+{"name":"Log","hostname":"tylersheaffer","pid":81999,"level":30,"msg":"Url configured as: http://localhost:2368/","time":"2020-07-12T22:55:13.220Z","v":0}
+{"name":"Log","hostname":"tylersheaffer","pid":81999,"level":30,"msg":"Ctrl+C to shut down","time":"2020-07-12T22:55:13.221Z","v":0}
+{"name":"Log","hostname":"tylersheaffer","pid":81999,"level":30,"msg":"Ghost boot 15.919s","time":"2020-07-12T22:55:13.222Z","v":0}
