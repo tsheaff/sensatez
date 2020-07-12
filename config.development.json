@@ -7,7 +7,7 @@
   "database": {
     "client": "sqlite3",
     "connection": {
-      "filename": "/Users/tylersheaffer/Code/ghost/content/data/ghost-local.db"
+      "filename": "/Users/tylersheaffer/Code/tsheaff/sensatez/content/data/ghost-local.db"
     }
   },
   "mail": {
@@ -21,6 +21,6 @@
   },
   "process": "local",
   "paths": {
-    "contentPath": "/Users/tylersheaffer/Code/ghost/content"
+    "contentPath": "/Users/tylersheaffer/Code/tsheaff/sensatez/content"
   }
 }
